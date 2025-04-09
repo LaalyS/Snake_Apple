@@ -1,4 +1,5 @@
 # Snake & Apple
+
 [![alt](img/Snake_Apple.jpg)](https://karol-mazurek95.medium.com/snake-apple-ff87a399ecc4?sk=v2%2Fb2295773-88e6-4654-9d3d-61d73b9001e5)
 The code repository for the `Snake&Apple` article series, which documents my research about macOS security.
 
@@ -74,6 +75,7 @@ I wrote the code for each article as a class `SnakeX`.
 The `X` was the article number, to make it easier for the audience to follow.   
 Each `Snake` class is a child of the previous one.  
 It infinitely "eats itself" (inherits methods of the last class), like Uroboros.
+
 
 ## INSTALLATION
 ```
